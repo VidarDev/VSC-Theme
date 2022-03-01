@@ -1,12 +1,16 @@
 on:
   push:
     branches:
-    - master
-  release:
-    types:
-    - created
-  - name: Publish
-  if: success() && startsWith( github.ref, 'refs/tags/releases/') && matrix.os == 'ubuntu-latest'
-  run: npm run deploy
-  env:
-    VSCE_PAT: ${{ secrets.VSCE_PAT }}
+      - master
+name: Deploy Extension
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: npm install
+      - uses: lannonbr/vsce-action@3.0.0
+        with:
+          args: "publish -p $VSCE_TOKEN"
+        env:
+          VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}

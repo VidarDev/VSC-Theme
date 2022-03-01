@@ -6,6 +6,9 @@
     "engines": {
         "vscode": "^1.64.0"
     },
+    "scripts": {
+        "deploy": "vsce publish --yarn"
+    },
     "publisher": "Vidar",
     "categories": [
         "Themes"

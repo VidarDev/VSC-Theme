@@ -1,0 +1,43 @@
+{
+    "name": "vidar-design",
+    "displayName": "Vidar",
+    "description": "Thats a VSC Design",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "publisher": "Vidar",
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#0C1016",
+        "theme": "dark"
+    },
+    "bugs": {
+        "url": "https://github.com/VidarDev/VSC-Theme/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/VidarDev/VSC-Theme/issues"
+    },
+    "icon": "icon.png",
+    "keywords": [
+        "vidar",
+        "theme",
+        "vscode",
+        "design"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vidar",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vidar-color-theme.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "vsce": "^2.6.7"
+    }
+}

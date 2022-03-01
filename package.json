@@ -2,7 +2,7 @@
     "name": "vidar-design",
     "displayName": "Vidar",
     "description": "Color Theme with the brand colors from 24x7 /dev YouTube Channel.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.64.0"
     },

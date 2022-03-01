@@ -4,6 +4,9 @@ name: Publish
 
 # Controls when the action will run.
 on:
+  push:
+    branches:
+      - master
   release:
     types:
       - created
@@ -24,8 +27,9 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 10.x
-      - run: npm install
+      - run: npm install -g vsce@1.103.1 yarn ovsx
       - name: Publish
+        if: success() && startsWith( github.ref, 'refs/tags/releases/') && matrix.os == 'ubuntu-latest'
         run: npm run deploy
         env:
-          VSCE_PAT: ${{ secrets.VSCE_PAT }}
+        VSCE_PAT: ${{ secrets.VSCE_PAT }}

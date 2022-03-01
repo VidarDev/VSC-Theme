@@ -1,8 +1,8 @@
 {
     "name": "vidar-design",
     "displayName": "Vidar",
-    "description": "Thats a VSC Design",
-    "version": "0.0.1",
+    "description": "Color Theme with the brand colors from 24x7 /dev YouTube Channel.",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.64.0"
     },

@@ -747,7 +747,7 @@
 				"source.ts"
 			],
 			"settings": {
-				"foreground": "#d39400",
+				"foreground": "#d39400", 
 			}
 		},
 		{

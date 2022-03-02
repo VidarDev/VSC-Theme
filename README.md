@@ -5,4 +5,4 @@
 
 Colorfull custom theme. The hole point of this theme is to create a better brand experiance with unique colors and nice code highlighting.
 
-![Demo of the Theme](https://i.imgur.com/MW57VgF.png)
+![Demo of the Theme](https://i.imgur.com/TbGBilw.png)

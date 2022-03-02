@@ -33,7 +33,7 @@
 		"textPreformat.foreground": "#ffffff",
 		"textSeparator.foreground": "#ffffff",
 		"button.background": "#018684",
-		"button.foreground": "#ffffff",
+		"button.foreground": "#000000",
 		"button.hoverBackground": "#66fffd",
 		"button.secondaryForeground": "#ffffff",
 		"button.secondaryBackground": "#007977",
@@ -93,11 +93,11 @@
 		"statusBar.debuggingForeground": "#1B1E26",
 		"statusBar.noFolderForeground": "#353A4A",
 		"statusBar.noFolderBackground": "#1B1E26",
-		"statusBarItem.activeBackground": "#CD5A3C",
-		"statusBarItem.hoverBackground": "#CD5A3C",
+		"statusBarItem.activeBackground": "#018684",
+		"statusBarItem.hoverBackground": "#018684",
 		"statusBarItem.prominentForeground": "#ffffff",
 		"statusBarItem.prominentBackground": "#1B1E26",
-		"statusBarItem.prominentHoverBackground": "#CD5A3C",
+		"statusBarItem.prominentHoverBackground": "#018684",
 		"statusBarItem.remoteBackground": "#66fffd",
 		"statusBarItem.remoteForeground": "#ffffff",
 		"statusBarItem.errorBackground": "#FF3A48",
@@ -123,11 +123,11 @@
 		"notifications.foreground": "#A0AABE",
 		"notifications.background": "#1B1E26",
 		"notificationsErrorIcon.foreground": "#FF3A48",
-		"notificationsWarningIcon.foreground": "#D56C2A",
+		"notificationsWarningIcon.foreground": "#179c9a",
 		"notificationsInfoIcon.foreground": "#63F3AB",
 		"extensionButton.prominentForeground": "#ffffff",
 		"extensionButton.prominentBackground": "#66fffd",
-		"extensionButton.prominentHoverBackground": "#CD5A3C",
+		"extensionButton.prominentHoverBackground": "#018684",
 		"extensionBadge.remoteBackground": "#1B1E26",
 		"extensionBadge.remoteForeground": "#66fffd",
 		"list.activeSelectionBackground": "#66fffd20",
@@ -1518,7 +1518,7 @@
 				"meta.template.expression.ts punctuation.definition"
 			],
 			"settings": {
-				"foreground": "#BE5046"
+				"foreground": "#018684"
 			}
 		},
 		{

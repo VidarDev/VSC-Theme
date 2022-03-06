@@ -18,7 +18,7 @@
 		"activityBar.background": "#1B1E26",
 		"activityBar.foreground": "#66fffd",
 		"activityBar.inactiveForeground": "#353A4A",
-		"activityBarBadge.background": "#5500FF",
+		"activityBarBadge.background": "#8F57FF",
 		"activityBarBadge.foreground": "#ffffff",
 		"foreground": "#A0AABE",
 		"widget.shadow": "#13161B",
@@ -75,12 +75,12 @@
 		"dropdown.foreground": "#66fffd",
 		"merge.currentHeaderBackground": "#00EDFF50",
 		"merge.currentContentBackground": "#00EDFF30",
-		"merge.incomingHeaderBackground": "#5500FF50",
-		"merge.incomingContentBackground": "#5500FF30",
+		"merge.incomingHeaderBackground": "#8F57FF50",
+		"merge.incomingContentBackground": "#8F57FF30",
 		"merge.commonContentBackground": "#63F3AB30",
 		"merge.commonHeaderBackground": "#63F3AB50",
 		"editorOverviewRuler.currentContentForeground": "#00EDFF",
-		"editorOverviewRuler.incomingContentForeground": "#5500FF",
+		"editorOverviewRuler.incomingContentForeground": "#8F57FF",
 		"editorOverviewRuler.commonContentForeground": "#63F3AB",
 		"settings.headerForeground": "#ffffff",
 		"settings.modifiedItemIndicator": "#00EDFF",
@@ -205,13 +205,13 @@
 		"terminal.ansiBrightBlack": "#A0AABE",
 		"terminal.ansiBrightCyan": "#00EDFF",
 		"terminal.ansiBrightGreen": "#63F3AB",
-		"terminal.ansiBrightMagenta": "#5500FF",
+		"terminal.ansiBrightMagenta": "#8F57FF",
 		"terminal.ansiBrightRed": "#FF3A48",
 		"terminal.ansiBrightWhite": "#ffffff",
 		"terminal.ansiBrightYellow": "#ECDA32",
 		"terminal.ansiCyan": "#01BFCF",
 		"terminal.ansiGreen": "#51C58B",
-		"terminal.ansiMagenta": "#5500FF",
+		"terminal.ansiMagenta": "#8F57FF",
 		"terminal.ansiRed": "#96033C",
 		"terminal.ansiWhite": "#ffffff",
 		"terminal.ansiYellow": "#BEB12B",
@@ -320,7 +320,7 @@
 		"debugView.valueChangedHighlight": "#00EDFF",
 		"debugTokenExpression.name": "#A0AABE",
 		"debugTokenExpression.value": "#00EDFF",
-		"debugTokenExpression.string": "#5500FF",
+		"debugTokenExpression.string": "#8F57FF",
 		"debugTokenExpression.boolean": "#63F3AB",
 		"debugTokenExpression.number": "#66fffd",
 		"debugTokenExpression.error": "#FF3A48"
@@ -377,7 +377,7 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -404,7 +404,7 @@
 				"keyword.other.unit"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -442,7 +442,7 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -451,7 +451,7 @@
 				"constant.variable"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -689,7 +689,7 @@
 				"entity.name.type.class"
 			],
 			"settings": {
-				"foreground": "#5500FF",
+				"foreground": "#8F57FF",
 				"fontStyle": "regular"
 			}
 		},
@@ -717,7 +717,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 				"meta.class"
 			],
 			"settings": {
-				"foreground": "#5500FF",
+				"foreground": "#8F57FF",
 			}
 		},
 		{
@@ -794,7 +794,7 @@
 				"meta.link"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 				"markup.bold"
 			],
 			"settings": {
-				"foreground": "#5500FF",
+				"foreground": "#8F57FF",
 				"fontStyle": "bold"
 			}
 		},
@@ -949,7 +949,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -1044,7 +1044,7 @@
 				"source.elixir parameter.variable.function"
 			],
 			"settings": {
-				"foreground": "#5500FF",
+				"foreground": "#8F57FF",
 			}
 		},
 		{
@@ -1093,7 +1093,7 @@
 				"source.elixir keyword.operator"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -1323,7 +1323,7 @@
 				"ng.interpolation bool"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -1415,7 +1415,7 @@
 				"source.python variable.parameter"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -1443,7 +1443,7 @@
 			"name": "[VSCODE-CUSTOM] Support Constant",
 			"scope": "support.constant",
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -1646,7 +1646,7 @@
 				"meta.array-binding-pattern-variable.tsx variable.other.readwrite.tsx"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -1668,7 +1668,7 @@
 				"variable.other.constant.property.tsx"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -1756,7 +1756,7 @@
 				"variable.other.constant.tsx"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -1896,7 +1896,7 @@
 				"variable.other.constant.object.tsx"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -1978,14 +1978,14 @@
 			"name": "[VSCODE-CUSTOM] Python Constants",
 			"scope": "source.python constant",
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
 			"name": "[VSCODE-CUSTOM] Python Placeholder Character",
 			"scope": "constant.character.format.placeholder.other.python storage",
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -1999,7 +1999,7 @@
 			"name": "[VSCODE-CUSTOM] Python Meta Function Parameters",
 			"scope": "meta.function.parameters.python",
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -2090,7 +2090,7 @@
 			"name": "[VSCODE-CUSTOM] Rust Entity Name Lifetime",
 			"scope": "entity.name.lifetime.rust",
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -2104,7 +2104,7 @@
 			"name": "[VSCODE-CUSTOM] Rust Meta Attribute",
 			"scope": "meta.attribute.rust",
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -2139,7 +2139,7 @@
 			"name": "[VSCODE-CUSTOM] Css Punctuation Definition Constant",
 			"scope": "punctuation.definition.constant.css",
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -2153,7 +2153,7 @@
 			"name": "[VSCODE-CUSTOM] Sass Punctuation for constants",
 			"scope": "punctuation.definition.constant.scss",
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -2195,7 +2195,7 @@
 			"name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
 			"scope": "punctuation.definition.bold.markdown",
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -2268,7 +2268,7 @@
 			"name": "[VSCODE-CUSTOM] Ruby Other Constant Variable",
 			"scope": "variable.other.constant.ruby",
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -2369,7 +2369,7 @@
 			"language": "xml",
 			"scope": "meta.tag.xml",
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -2381,7 +2381,7 @@
 				"variable.other.readwrite.ts"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -2430,7 +2430,7 @@
 				"variable.other.property.ts"
 			],
 			"settings": {
-				"foreground": "#5500FF"
+				"foreground": "#8F57FF"
 			}
 		},
 		{
@@ -2541,7 +2541,7 @@
 				"expression.embedded.vue"
 			],
 			"settings": {
-				"foreground": "#5500FF",
+				"foreground": "#8F57FF",
 			}
 		},
 		{

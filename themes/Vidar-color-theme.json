@@ -132,7 +132,7 @@
 		"extensionBadge.remoteForeground": "#66fffd",
 		"extensionBadge.remoteForeground": "#000000",
 		"list.activeSelectionBackground": "#66fffd20",
-		"list.activeSelectionForeground": "#000000",
+		"list.activeSelectionForeground": "#f3eeee",
 		"list.dropBackground": "#1B1E26",
 		"list.focusBackground": "#161A21",
 		"list.focusForeground": "#66fffd",

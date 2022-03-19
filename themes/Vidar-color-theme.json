@@ -332,7 +332,7 @@
 				"comment"
 			],
 			"settings": {
-				"foreground": "#5C6370",
+				"foreground": "#80eb65",
 			}
 		},
 		{
@@ -341,7 +341,7 @@
 				"comment markup.link"
 			],
 			"settings": {
-				"foreground": "#5C6370"
+				"foreground": "#80eb65"
 			}
 		},
 		{
@@ -569,7 +569,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#5C6370"
+				"foreground": "#80eb65"
 			}
 		},
 		{
